@@ -7,7 +7,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\farla\\OneDrive\\Documents\\makefile\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen.json"
+                "C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen.json"
             ]
         },
         {
@@ -17,7 +17,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\farla\\OneDrive\\Documents\\makefile\\Uberwaffen\\.vscode\\compileCommands_Default.json"
+                "C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\.vscode\\compileCommands_Default.json"
             ]
         }
     ],
