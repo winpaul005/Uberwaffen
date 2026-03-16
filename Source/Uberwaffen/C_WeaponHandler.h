@@ -32,6 +32,10 @@ struct FWeaponItem: public FTableRowBase
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	USkeletalMesh* ViewportMesh;
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
+	EDamagePatterm DamagePattern;
+	UPROPERTY(BlueprintReadWrite, EditAnywhere)
+	EWeaponType WeaponType;
+	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	int MaxAmmo;
 	UPROPERTY(BlueprintReadWrite, AdvancedDisplay)
 	int currentAmmo;
