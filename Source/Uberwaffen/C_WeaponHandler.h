@@ -37,6 +37,8 @@ struct FWeaponItem: public FTableRowBase
 	EWeaponType WeaponType;
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	int MaxAmmo;
+	UPROPERTY(BlueprintReadWrite, EditAnywhere)
+	int clipAmmo;
 	UPROPERTY(BlueprintReadWrite, AdvancedDisplay)
 	int currentAmmo;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
