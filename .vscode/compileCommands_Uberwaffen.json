@@ -1,25 +1,41 @@
 [
 	{
-		"file": "C:\\Users\\farla\\OneDrive\\Documents\\makefile\\Uberwaffen\\Source\\Uberwaffen\\Uberwaffen.Build.cs",
+		"file": "C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\Source\\Uberwaffen\\C_WeaponHandler.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\farla\\OneDrive\\Documents\\makefile\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen\\Uberwaffen.1.rsp"
+			"@C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen\\Uberwaffen.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\farla\\OneDrive\\Documents\\makefile\\Uberwaffen\\Source\\Uberwaffen\\Uberwaffen.cpp",
+		"file": "C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\Source\\Uberwaffen\\C_WeaponHandler.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\farla\\OneDrive\\Documents\\makefile\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen\\Uberwaffen.1.rsp"
+			"@C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen\\Uberwaffen.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\farla\\OneDrive\\Documents\\makefile\\Uberwaffen\\Source\\Uberwaffen\\Uberwaffen.h",
+		"file": "C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\Source\\Uberwaffen\\Uberwaffen.Build.cs",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\farla\\OneDrive\\Documents\\makefile\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen\\Uberwaffen.1.rsp"
+			"@C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen\\Uberwaffen.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\Source\\Uberwaffen\\Uberwaffen.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen\\Uberwaffen.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\Source\\Uberwaffen\\Uberwaffen.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\farla\\OneDrive\\Documents\\Unreal Projects\\Uberwaffen\\.vscode\\compileCommands_Uberwaffen\\Uberwaffen.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
 	}
