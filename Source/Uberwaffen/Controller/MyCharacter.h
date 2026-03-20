@@ -16,6 +16,7 @@ public:
 	AMyCharacter();
 
 	FORCEINLINE class UCameraComponent* GetPlayerCamera() const { return PlayerCamera; }
+	UPROPERTY(BlueprintReadOnly,VisibleAnywhere)
 	class UCameraComponent* PlayerCamera;
 
 	void MoveForward(float Value);
