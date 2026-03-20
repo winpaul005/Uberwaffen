@@ -22,8 +22,8 @@ public:
 	void MoveRight(float Value);
 
 private:
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	UCameraComponent* PlayerCamera;
+	//UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
+	//UCameraComponent* PlayerCamera;
 
 protected:
 	// Called when the game starts or when spawned
