@@ -41,7 +41,7 @@ struct FWeaponItem: public FTableRowBase
 	int clipAmmo;
 	UPROPERTY(BlueprintReadWrite, AdvancedDisplay)
 	int currentAmmo;
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)		
 	USoundBase* PewSound;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	float shootCooldown;
