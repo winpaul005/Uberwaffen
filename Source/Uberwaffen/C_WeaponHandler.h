@@ -50,8 +50,6 @@ struct FWeaponItem: public FTableRowBase
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	float shootWarmup;
 };
-
-
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class UBERWAFFEN_API UC_WeaponHandler : public UActorComponent
 {
@@ -68,6 +66,5 @@ protected:
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
 		
 };
