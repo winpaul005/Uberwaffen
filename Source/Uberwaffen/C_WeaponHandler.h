@@ -49,6 +49,8 @@ struct FWeaponItem: public FTableRowBase
 	float shootCooldown;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	float shootWarmup;
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	float damageFactor;
 };
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class UBERWAFFEN_API UC_WeaponHandler : public UActorComponent
