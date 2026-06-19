@@ -8,7 +8,7 @@ public class Uberwaffen : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "MoviePlayer", "UMG","Slate", "SlateCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "MoviePlayer", "UMG","Slate", "SlateCore" ,"Paper2D"});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

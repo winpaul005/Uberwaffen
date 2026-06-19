@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "PaperSpriteComponent.h"
 #include "C_WeaponHandler.generated.h"
 
 UENUM(BlueprintType)
@@ -28,7 +29,7 @@ struct FWeaponItem: public FTableRowBase
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	FString ItemDescription;
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
-	UTexture2D* ItemImage;
+	UPaperSprite*  ItemImage;
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	USkeletalMesh* ViewportMesh;
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
